@@ -1,0 +1,3 @@
+/bin/
+*.o
+internal/firewall/firewall_bpfel.go
